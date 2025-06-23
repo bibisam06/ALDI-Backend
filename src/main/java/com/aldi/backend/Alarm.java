@@ -1,8 +1,6 @@
-package com.aldi.backend.alarm;
+package com.aldi.backend;
 
-import com.aldi.backend.entity.Category;
-import com.aldi.backend.entity.Event;
-import com.aldi.backend.entity.Users;
+import com.aldi.backend.user.entity.Users;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

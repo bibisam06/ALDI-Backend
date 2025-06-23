@@ -1,4 +1,4 @@
-package com.aldi.backend.entity;
+package com.aldi.backend;
 
 import jakarta.persistence.*;
 import lombok.Getter;
